@@ -1,0 +1,10 @@
+*label sound_check
+This tests if sounds play.
+
+*fake_choice
+  #Play sound.
+    *sound sounds/play_sound.wav
+    *goto sound_check
+  #Finish.
+    *finish
+

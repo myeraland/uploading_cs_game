@@ -1,0 +1,9 @@
+This tests whether or not photos upload properly.
+
+*image images/flower_public_domain.jpg center An image of flowers
+
+Image sourced from the
+*link https://pdimagearchive.org/images/022e472a-455d-4caa-b1ae-c40aac91f09d Public Domain Image Archive / Rijksmuseum.
+
+*page_break
+*finish
